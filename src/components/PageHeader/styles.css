@@ -1,0 +1,41 @@
+.page-header {
+    display: flex;
+    flex-direction: column;
+    background: var(--color-primary);
+}
+
+.page-header .top-bar-container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--color-text-in-primary);
+    padding: 1.6rem 0;
+}
+
+.page-header .top-bar-container a {
+    height: 3rem;
+    transition: opacity 0.3s;
+}
+
+.page-header .top-bar-container a:hover {
+    opacity: 0.7;
+}
+
+.page-header .top-bar-container > img {
+    height: 3rem;
+}
+
+.page-header .header-content {
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    margin: 3.2rem auto;
+}
+
+.page-header .header-content strong {
+    font: 700 4rem Play;
+    line-height: 4.2rem;
+    color: var(--color-title-in-primary);
+}
