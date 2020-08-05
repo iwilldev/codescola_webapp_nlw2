@@ -47,6 +47,7 @@ input,
 button,
 textarea {
     font: 400 1.6rem Montserrat;
+    color: var(--color-text-base);
 }
 
 .container {
