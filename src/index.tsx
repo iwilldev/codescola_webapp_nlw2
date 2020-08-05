@@ -8,3 +8,7 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+// yarn create react-app web --template typescript
+// yarn add react-router-dom
+// yarn add @types/react-router-dom -D
