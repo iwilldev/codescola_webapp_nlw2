@@ -7,7 +7,7 @@ Repositório da API do back-end: https://github.com/euwilliamgoncalves/codescola
 
 Repositório da aplicação mobile: https://github.com/euwilliamgoncalves/codescola_mobile_nlw2
 
-<img src="https://euwilliamgoncalves.github.io/img/portfolio/013/image01.png">
-<img src="https://euwilliamgoncalves.github.io/img/portfolio/013/image02.png">
-<img src="https://euwilliamgoncalves.github.io/img/portfolio/013/image03.png">
-<img src="https://euwilliamgoncalves.github.io/img/portfolio/013/image04.png">
+<img src="https://euwilliamgoncalves.github.io/assets/img/portfolio/013/image01.png">
+<img src="https://euwilliamgoncalves.github.io/assets/img/portfolio/013/image02.png">
+<img src="https://euwilliamgoncalves.github.io/assets/img/portfolio/013/image03.png">
+<img src="https://euwilliamgoncalves.github.io/assets/img/portfolio/013/image04.png">
